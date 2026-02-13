@@ -35,6 +35,7 @@ Plaintext
 
 🚀 הרצת הכלי
 לאחר השלמת החיבור, ניתן להריץ את פקודת ה-Enumeration:
+<img width="943" height="913" alt="image" src="https://github.com/user-attachments/assets/8fe17d7f-eb01-4af3-9a7b-9092a7d0f459" />
 
 Bash
 gobuster dir -u "http://www.example.thm/" -w /usr/share/wordlists/dirb/small.txt -t 64
@@ -44,7 +45,7 @@ gobuster dir -u "http://www.example.thm/" -w /usr/share/wordlists/dirb/small.txt
 
 דגל -t: קובע את מספר התהליכונים (Threads) לשיפור המהירות.
 
-<img width="952" height="726" alt="image" src="https://github.com/user-attachments/assets/b512ddde-73fb-4d3e-8f51-b08e375eec29" />
+
 
 
 מדריך מעשי לשימוש בכלי ה-Gobuster למטרות איסוף מידע (Reconnaissance) ובדיקות חדירות (Penetration Testing).
@@ -67,7 +68,6 @@ Brute Force (כוח גס): ניסוי של כל האפשרויות מתוך רש
 
 הפעלה מחדש של השירות: /etc/init.d/dnsmasq restart
 
-<img width="943" height="913" alt="image" src="https://github.com/user-attachments/assets/8fe17d7f-eb01-4af3-9a7b-9092a7d0f459" />
 
 
 
