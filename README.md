@@ -35,5 +35,12 @@ fuzz: מצב Fuzzing להחלפת מילת מפתח (FUZZ) בכתובות URL, �
 
 s3/gcs: סריקת דליי אחסון ב-AWS ו-Google Cloud.
 
+<img width="942" height="384" alt="image" src="https://github.com/user-attachments/assets/c2497ed4-bb54-48ab-b3a9-a2eb59b0e8cc" />
+dir: מצב סריקת ספריות.
 
+-u: כתובת היעד.
+
+-w: נתיב לרשימת המילים.
+
+-t 64: שימוש ב-64 תהליכונים למהירות מירבית.
 
