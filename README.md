@@ -67,7 +67,8 @@ Brute Force (כוח גס): ניסוי של כל האפשרויות מתוך רש
 
 הפעלה מחדש של השירות: /etc/init.d/dnsmasq restart
 
-<img width="929" height="827" alt="image" src="https://github.com/user-attachments/assets/64b68800-3907-4748-9baa-86450da31ef5" />
+<img width="943" height="913" alt="image" src="https://github.com/user-attachments/assets/8fe17d7f-eb01-4af3-9a7b-9092a7d0f459" />
+
 
 
 Gobuster הוא כלי חיוני בשלבי ה-Reconnaissance וה-Scanning של בדיקות חדירות. הוא מאפשר למצוא דפים, תיקיות, תתי-דומיינים ודליי אחסון בענן שאינם גלויים לעין רגילה על ידי שימוש ב-Wordlists (רשימות מילים).
