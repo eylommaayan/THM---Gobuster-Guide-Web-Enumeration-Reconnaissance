@@ -1,4 +1,6 @@
 # THM---Gobuster-Guide-Web-Enumeration-Reconnaissance
+<img width="770" height="279" alt="image" src="https://github.com/user-attachments/assets/ed5f7f17-eeca-4154-a7db-d1c6f2ff9586" />
+
 מדריך מעשי לשימוש בכלי ה-Gobuster למטרות איסוף מידע (Reconnaissance) ובדיקות חדירות (Penetration Testing).
 מדריך לשימוש ב-Gobuster: כלי לסריקה ואיסוף מידע (Reconnaissance)
 Gobuster הוא כלי קוד פתוח הכתוב בשפת Go, המשמש אנשי אבטחת מידע לביצוע "מתקפות כוח גס" (Brute Force) על מנת למצוא משאבים חבויים ברשת. הוא נחשב לאחד הכלים המהירים והאמינים ביותר בשלב ה-Scanning וה-Enumeration.
