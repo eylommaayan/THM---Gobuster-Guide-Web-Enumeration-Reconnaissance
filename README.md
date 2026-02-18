@@ -93,3 +93,33 @@ dir: מצב סריקת ספריות.
 
 -t 64: שימוש ב-64 תהליכונים למהירות מירבית.
 
+
+
+
+פתרון המעבדה (מבוסס על התמונות שלך)
+לפי הצילומים ששלחת, כך הגעת לפתרון:
+
+איזה דגל מוסיפים כדי לדלג על אימות TLS?
+
+תשובה: --no-tls-validation.
+
+סריקת האתר www.offensivetools.thm:
+
+פקודת הסריקה:
+gobuster dir -u "http://www.offensivetools.thm" -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt.
+
+הספרייה שמשכה את תשומת הלב בתוצאות: secret.
+
+מציאת הדגל בתוך קובץ JS:
+
+ביצוע סריקה בתוך ספריית secret עם סיומת .js:
+gobuster dir -u "http://www.offensivetools.thm/secret" -w ... -x .js
+
+נמצא קובץ בשם flag.js.
+
+קריאת הקובץ: curl http://www.offensivetools.thm/secret/flag.js.
+
+הדגל: THM{ReconWasASuccess}.
+<img width="1867" height="889" alt="image" src="https://github.com/user-attachments/assets/edb30fa3-8d29-4d37-b5b5-3db11275489f" />
+
+
